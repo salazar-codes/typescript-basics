@@ -1,0 +1,5 @@
+(()=>{
+    
+    let isHero: boolean= false;
+    
+})();
