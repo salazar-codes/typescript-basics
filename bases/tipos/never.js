@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // El never significa que la función no debe terminar exitosamente
     const abc = (mesage) => {
         if (false)
             throw new Error(mesage);
@@ -8,3 +7,4 @@
     };
     abc('khé');
 })();
+//# sourceMappingURL=never.js.map
