@@ -1,5 +1,4 @@
 "use strict";
-// Evitar usar el any al programar
 (() => {
     let avenger;
     avenger = 'Ironman';
@@ -7,3 +6,4 @@
     avenger = 150.3434343;
     console.log(avenger.toFixed());
 })();
+//# sourceMappingURL=any.js.map

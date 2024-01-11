@@ -9,3 +9,4 @@
     ;
     let currentAudio = AudioLevel.medium;
 })();
+//# sourceMappingURL=enum.js.map

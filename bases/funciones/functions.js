@@ -1,5 +1,4 @@
 "use strict";
-// Evitar usar el any al programar
 (() => {
     function returnName() {
         return '';
@@ -8,3 +7,4 @@
         return '';
     };
 })();
+//# sourceMappingURL=functions.js.map
